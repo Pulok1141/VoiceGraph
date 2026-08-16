@@ -1,0 +1,10 @@
+{
+  "description": "Streamline user access to VoiceGraph with a mobile-first authentication flow featuring seamless transitions between splash, welcome, login, and registration screens.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
